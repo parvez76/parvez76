@@ -3,9 +3,9 @@
 
 - 👯 I’m looking forward to collaborate on **Automation, IaaS, CI/CD, Gitops, DevSecOps implementation, and related cloud solutions**
 
-- 🌱 I’m currently learning **DevNets - Networking Essentials 2.0 on Cisco NetCad**
+- 🌱 I’m currently learning **Kubernetes on The Linux Foundation**
 
-- 💬 Ask me about **AWS, Terraform, Kubernetes, Cloud Solutions**
+- 💬 Ask me about **AWS, Terraform, Kubernetes, SQA, and Cloud Solutions**
 
 - 👨‍💻 All of my projects are available at this github account
 
