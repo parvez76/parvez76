@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Masud Parvez</h1>
 <h3 align="center">A passionate DevOps Engineer from Bangladesh</h3>
 
-- 👯 I’m looking forward to collaborate on **Automation, IaaS, CI/CD, Gitops, DevSecOps implementation, and related cloud solutions**
+- 👯 I’m looking forward to collaborate on **Automation, Terraform, CI/CD, Gitops, DevSecOps implementation, and related cloud solutions**
 
 - 🌱 I’m currently learning **Kubernetes on The Linux Foundation**
 
