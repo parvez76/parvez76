@@ -2,7 +2,8 @@
 
 # Hi there, I'm Md Masud Parvez 👋
 
-### DevOps Engineer | Cloud Infrastructure & Automation 
+### DevOps Engineer | Cloud Infrastructure | Automation | CI/CD
+
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/parvez76)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parvez76)
